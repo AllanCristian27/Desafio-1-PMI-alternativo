@@ -1,0 +1,99 @@
+body{
+display: flex;
+flex-direction: column;
+max-width: 80%;
+padding: 0;
+margin: 0 auto;
+border: 0px red solid;
+
+}
+
+header{display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+
+#logo{float: left;
+    padding-left: 300px;
+    padding-top: 10px;
+}
+
+#link{float: right;
+padding-right:320px;
+padding-top: 40px;
+}
+#logo2{float: left;
+    padding-left: 100px;
+    padding-top: 10px;
+}
+
+#link2{float: right;
+padding-right:150px;
+padding-top: 40px;
+}
+
+#logo3{float: left;
+    padding-left: 100px;
+    padding-top: 10px;
+}
+
+#link3{float: right;
+padding-right:150px;
+padding-top: 40px;
+}
+
+#capa{display: flex;
+flex-direction: row;
+justify-content: center;
+padding-top: 30px;
+
+}
+
+#titulo1{float: left;
+padding-left: 320px ;}
+
+#texto1{float: left;
+    padding-left: 320px;
+    padding-right: 320px;
+
+}
+
+#titulo2{float: left;
+padding-left: 130px;}
+
+#texto2{float: left;
+padding-left: 130px;
+padding-right: 130px;}
+
+#titulo3{float: left;
+padding-left: 130px;}
+
+#lista{float: left;
+padding-left: 130px;}
+
+hr{width: 80%;
+text-align: center;}
+
+
+#titulo4{float: left;
+padding-left: 140px;}
+
+#texto3{float: left;
+padding-left: 130px;
+}
+
+#titulo5{float: left;
+padding-left: 110px;}
+
+#texto4{float: left;
+padding-left: 110px;
+padding-right: 110px;}
+
+#formulario{float: left;
+    padding-left: 110px;
+    padding-top: 10px;}
+
+.fundo{background-image: url(imagens/fundo.png);}
+.fundo2{background-image: url(imagens/fundo2.png);}
+
+#rodape{text-align: center;}
